@@ -1,2 +1,7 @@
 # hello-world
-testing out github
+
+Hello Everyone!
+
+Just Catching up on Github!
+
+C.
